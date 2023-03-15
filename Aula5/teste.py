@@ -1,0 +1,1 @@
+print("big bass bonanza vai pagar um milhao")
